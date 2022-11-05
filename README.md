@@ -90,5 +90,5 @@ To learn more about Gatsby themes specifically, I recommend checking out the [th
 
 - **To dive straight into code samples, head [to Gatsby's documentation](https://www.gatsbyjs.com/docs/).** In particular, check out the _How-to Guides_ and _Reference_ items in the primary navigation.
 
-# IsorySantana.github.io
+
 

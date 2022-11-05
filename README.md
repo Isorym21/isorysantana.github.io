@@ -1,14 +1,16 @@
 <p align="center">
-  <a href="https://cara.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
+  <a href="https://cara.lekoarts.de"
   </a>
 </p>
 <h1 align="center">
   Gatsby Starter Portfolio: Cara
 </h1>
 
-
 Please give proper credit by linking back to https://www.lekoarts.de?utm_source=cara&utm_medium=Starter Thanks! 💪
+  </a>
+  <a href="https://www.lekoarts.de?utm_source=cara&utm_medium=Starter">
+    <img alt="Website" src="https://img.shields.io/badge/-website-blue">
+  </a>
 
 Playful and Colorful One-Page portfolio featuring Parallax effects and animations. Using the Gatsby Theme [`@lekoarts/gatsby-theme-cara`](https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-cara).
 

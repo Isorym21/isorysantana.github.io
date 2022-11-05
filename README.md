@@ -6,7 +6,8 @@
   Gatsby Starter Portfolio: Cara
 </h1>
 
-Please give proper credit by linking back to https://www.lekoarts.de?utm_source=cara&utm_medium=Starter Thanks! 💪
+## 🌟 Please give proper credit by linking back to https://www.lekoarts.de?utm_source=cara&utm_medium=Starter Thanks! 
+
   </a>
   <a href="https://www.lekoarts.de?utm_source=cara&utm_medium=Starter">
     <img alt="Website" src="https://img.shields.io/badge/-website-blue">
